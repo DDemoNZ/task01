@@ -2,3 +2,4 @@
 logs/
 .syndicate-config-task02/
 .idea/
+target/
