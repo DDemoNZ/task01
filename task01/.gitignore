@@ -1,5 +1,5 @@
 .syndicate
 logs/
 ../.idea/
-task01/.syndicate-config-task01/
+.syndicate-config-task01/
 target/
