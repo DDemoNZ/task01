@@ -37,7 +37,6 @@
   },
   "hello_world_api": {
     "resource_type": "api_gateway",
-    "deploy_stage": "prod",
     "dependencies": [],
     "resources": {
       "/hello": {
