@@ -24,3 +24,5 @@ A
 task01/.gitignore,d\a\daecebfbfcb28e38a54019462de4bf286682deb8
 >
 task01/pom.xml,4\6\464a061af4ca7db1074cb71a3501bc7efcdc7744
+A
+task01/.syndicate,f\3\f3175168c7cd070e48f84f8f2b1b41039bfc8c6e
